@@ -1,6 +1,7 @@
-# appointment-reminder-saas
-Appointment reminder SaaS project (beta)
-Developed independently.
-Focused on transactional WhatsApp reminders for clinics.
+Appointment Reminder SaaS (Beta)
+
+Independent project developed to help small clinics reduce missed appointments through automated WhatsApp transactional reminders.
+
+Currently in development and beta testing phase.
 
 AMIN DAHMOUNI TALEB
